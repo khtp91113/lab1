@@ -1,0 +1,12 @@
+Script started on 2015年03月10日 (週二) 21時22分06秒
+]0;F74036459@2015cpp: ~F74036459@2015cpp:~$ whoami; pwd
+F74036459
+/home/F74036459
+]0;F74036459@2015cpp: ~F74036459@2015cpp:~$ git config -l
+user.name=khtp91113
+user.email=f74036459@mail.ncu.edu.tw
+]0;F74036459@2015cpp: ~F74036459@2015cpp:~$ git clone https://github.com/khtp91113/l ab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74036459@2015cpp: ~F74036459@2015cpp:~$ exit
+
+Script done on 2015年03月10日 (週二) 21時22分50秒
